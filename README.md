@@ -1,7 +1,6 @@
 # Hullo there 👋!
 
 I'm Erin and welcome to my profile. 
-Nothing much to see here.. yet!
 
 <!--
 **garciaerin/garciaerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
